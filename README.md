@@ -1,2 +1,2 @@
-# AdventOfCode2025
+# AdventOfCode
 https://adventofcode.com
