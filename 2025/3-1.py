@@ -11,6 +11,7 @@ for battery in batteries:
 
     #Find the highest value in the string
     highest_value = max(battery_string)
+    
     #Find the index of the highest value in the string (first instance if multiple)
     highest_value_index = battery_string.find(highest_value)
 
